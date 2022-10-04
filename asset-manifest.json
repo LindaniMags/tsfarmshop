@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/tsfarmshop/static/css/main.119ffbab.css",
+    "main.js": "/tsfarmshop/static/js/main.f518822b.js",
+    "static/js/787.73fc88c9.chunk.js": "/tsfarmshop/static/js/787.73fc88c9.chunk.js",
+    "static/media/Mask group.png": "/tsfarmshop/static/media/Mask group.8168d11c3c432c368937.png",
+    "static/media/fast-forward.gif": "/tsfarmshop/static/media/fast-forward.2d0db2c08622a43d3719.gif",
+    "static/media/ts-pp.png": "/tsfarmshop/static/media/ts-pp.85d4fb9d17cabf8e8c9f.png",
+    "static/media/vet-c.png": "/tsfarmshop/static/media/vet-c.f9f415be1f033fb79cd3.png",
+    "static/media/pesticide.png": "/tsfarmshop/static/media/pesticide.e71f1ec5db2940ef3b26.png",
+    "static/media/groceries.png": "/tsfarmshop/static/media/groceries.1e654ea8fd51e68f3fa2.png",
+    "static/media/herbicide.png": "/tsfarmshop/static/media/herbicide.4dd33bd60a0aba37353c.png",
+    "static/media/ts-logo.png": "/tsfarmshop/static/media/ts-logo.f9d8f370168ba99da78e.png",
+    "static/media/tools.png": "/tsfarmshop/static/media/tools.4bb9dd843dd777a50001.png",
+    "static/media/fertilizer.png": "/tsfarmshop/static/media/fertilizer.ec8ed084a7b892ad6690.png",
+    "static/media/seeds.png": "/tsfarmshop/static/media/seeds.dee93c5935e3461d0cdd.png",
+    "static/media/solar-energy-c.png": "/tsfarmshop/static/media/solar-energy-c.3412915288d36793f5b7.png",
+    "static/media/sprinkler.png": "/tsfarmshop/static/media/sprinkler.1da41b8c1a4585af4780.png",
+    "static/media/greenhouse-c.png": "/tsfarmshop/static/media/greenhouse-c.f76229485df9e78b67c4.png",
+    "static/media/pot.png": "/tsfarmshop/static/media/pot.bb4934bb9e856f6dc9eb.png",
+    "static/media/TS logo.png": "/tsfarmshop/static/media/TS logo.ffe85156925480cc8d6a.png",
+    "index.html": "/tsfarmshop/index.html",
+    "main.119ffbab.css.map": "/tsfarmshop/static/css/main.119ffbab.css.map",
+    "main.f518822b.js.map": "/tsfarmshop/static/js/main.f518822b.js.map",
+    "787.73fc88c9.chunk.js.map": "/tsfarmshop/static/js/787.73fc88c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.119ffbab.css",
+    "static/js/main.f518822b.js"
+  ]
+}
